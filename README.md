@@ -1,6 +1,7 @@
 # DTI DESIGNTK 530 - Project I-8
 
 [Link to PPTX]()
+[Link to Co-Lab](https://colab.research.google.com/drive/1cbxP12OGqmGb8ZWb2PMIC9VWTtmAXmjJ?usp=sharing)
 
 
 ### *Miro Board Feedback*
